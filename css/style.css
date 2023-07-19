@@ -136,10 +136,14 @@ body {
 }
 
 #portfolio {
-    background-color: #c8cacc88; /* Cambia este valor al color que desees */
+    background-color: #c8cacc88; 
   }
 
   #contact {
-    background-color: #c8cacc88; /* Cambia este valor al color que desees */
+    background-color: #c8cacc88;
   }
 
+  .logo-img {
+	width: 75px; 
+	height: 75px; 
+  }
