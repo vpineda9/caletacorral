@@ -80,6 +80,7 @@ body {
 }
 .portfolio .card {
 	box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
+	background-color: #c8cacc88;
 }
 .team .card {
 	box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
@@ -133,3 +134,12 @@ body {
 .card {
     height: 100%;
 }
+
+#portfolio {
+    background-color: #c8cacc88; /* Cambia este valor al color que desees */
+  }
+
+  #contact {
+    background-color: #c8cacc88; /* Cambia este valor al color que desees */
+  }
+
